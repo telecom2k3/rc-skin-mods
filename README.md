@@ -9,6 +9,7 @@ PHP 5.6 or 7.2<br>
 Roundcube: 1.3.X
 
 <b>Installation</b>
+---
 Unzip these into your Roundcube "/skins" folder.
 
 <b>Support</b>
