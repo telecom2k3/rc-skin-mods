@@ -1,0 +1,8 @@
+{
+	"extends": "mabola",
+	"name": "Mabola Dark",
+	"author": "Estudio Nexos, Valladolid, Spain, Pascal Garber",
+	"license": "GNU General Public License",
+	"license-url": "http://www.gnu.org/licenses/gpl.html",
+	"version": "0.0.1"
+}
